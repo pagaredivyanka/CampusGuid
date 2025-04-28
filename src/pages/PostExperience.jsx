@@ -54,6 +54,7 @@ const PostExperience = () => {
         >
           <option value="">Select Branch</option>
           <option value="Computer Engineering">Computer Engineering</option>
+          <option value="Computer Engineering">Artificial Intelligence and Data Science</option>
           <option value="Information Technology">Information Technology</option>
           <option value="Electronics and Telecommunication">Electronics and Telecommunication</option>
           <option value="Mechanical Engineering">Mechanical Engineering</option>
